@@ -11,6 +11,8 @@ Hardware part
 
 - [x] camera info
 - [x] battery info
+- [ ] brightness info
+- [ ] location info
 - [ ] cpu info
 - [ ] gpu info
 - [ ] memory info
@@ -24,10 +26,12 @@ Software part
 - [ ] package info
 - [ ] shell info
 - [ ] font info
+- [ ] ip info
 - [ ] theme info
 - [x] termux version
 
 Others
 
+- [ ] add a motd header title
 - [ ] ascii art logo
 - [ ] nerd font support
