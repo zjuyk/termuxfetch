@@ -1,0 +1,10 @@
+#!/bin/bash
+# vim: noai:ts=4:sw=4:expandtab
+# shellcheck source=/dev/null
+
+# termuxfetch: A simple script to show system info in termux.
+# Inspired by neofetch: https://github.com/dylanaraps/neofetch
+# Mainly make use of the termux-api package: https://github.com/termux/termux-api
+# Thanks for their awesome works!
+
+
