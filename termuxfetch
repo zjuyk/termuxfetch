@@ -3,8 +3,69 @@
 # shellcheck source=/dev/null
 
 # termuxfetch: A simple script to show system info in termux.
+# github repo: https://github.com/zjuyk/termuxfetch
 # Inspired by neofetch: https://github.com/dylanaraps/neofetch
 # Mainly make use of the termux-api package: https://github.com/termux/termux-api
 # Thanks for their awesome works!
+
+VERSION=0.0.1
+
+# Hardware Detection
+
+get_camera() {
+
+}
+
+get_battery() {
+
+}
+
+get_brightness() {
+
+}
+
+
+# Software Detection
+
+get_os() {
+
+}
+
+get_kernel() {
+
+}
+
+get_package() {
+
+}
+
+get_font() {
+
+}
+
+get_theme() {
+
+}
+
+get_shell() {
+
+}
+
+get_version() {
+
+}
+
+# Others 
+
+#TODO
+
+# - nerd font
+# - ascii art logo
+
+
+print_help() {
+
+}
+
 
 
